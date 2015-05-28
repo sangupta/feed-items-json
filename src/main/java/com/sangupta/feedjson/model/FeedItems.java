@@ -1,5 +1,8 @@
 package com.sangupta.feedjson.model;
 
+/**
+ * 
+ */
 import java.util.List;
 
 /**

@@ -1,5 +1,10 @@
 package com.sangupta.feedjson.model;
 
+/**
+ * 
+ * @author sangupta
+ *
+ */
 public class FeedItem {
 	
 	public long crawlTimeMSec;
